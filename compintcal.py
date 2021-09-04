@@ -18,4 +18,4 @@ def compIntCal(*amount):
     print('#######################################')
 
 
-compIntCal(100,500,1000)
+compIntCal()
